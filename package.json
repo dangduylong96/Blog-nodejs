@@ -1,0 +1,19 @@
+{
+  "name": "blog_nodejs",
+  "version": "1.0.0",
+  "description": "Project trang blog nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangduylong96/Blog-nodejs.git"
+  },
+  "author": "Long96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangduylong96/Blog-nodejs/issues"
+  },
+  "homepage": "https://github.com/dangduylong96/Blog-nodejs#readme"
+}
